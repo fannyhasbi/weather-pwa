@@ -8,6 +8,8 @@ var filesToCache = [
   '/scripts/app.js',
   '/styles/inline.css',
   '/images/kelompok06.png',
+  '/images/male.png',
+  '/images/female.png',
   '/images/clear.png',
   '/images/cloudy-scattered-showers.png',
   '/images/cloudy.png',
