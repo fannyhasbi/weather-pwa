@@ -2,7 +2,9 @@ var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-step-6-1';
 var filesToCache = [
   '/',
+  'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
   '/index.html',
+  '/main.css',
   '/scripts/app.js',
   '/styles/inline.css',
   '/images/clear.png',
