@@ -1,7 +1,14 @@
 {
   "name": "Weather",
   "short_name": "Weather",
-  "icons": [{
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "start_url": ".",
+  "icons": [
+    {
     "src": "images/kelompok06.png",
       "sizes": "128x128",
       "type": "image/png"
@@ -21,9 +28,6 @@
       "src": "images/kelompok06.png",
       "sizes": "256x256",
       "type": "image/png"
-    }],
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#3E4EB8",
-  "theme_color": "#2F3BA2"
+    }
+  ]
 }
